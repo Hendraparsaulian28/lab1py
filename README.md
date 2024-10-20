@@ -1,5 +1,5 @@
-# Nama = Hendra Parsaulian
-# Nim = 312210689
+# Nama   : Hendra Parsaulian
+# Nim    : 312210689
 
 ## Instalasi Python
 • Bagi pengguna Linux, Python tidak perlu diinstal.
